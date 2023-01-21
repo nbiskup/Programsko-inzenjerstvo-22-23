@@ -39,8 +39,8 @@ namespace Solid
 
             Console.WriteLine();
 
-            /*Test test = new Test();
-            test.TestTrainSize();*/
+            Test test = new Test();
+            test.TestTrainSize();
         }
     }
 }

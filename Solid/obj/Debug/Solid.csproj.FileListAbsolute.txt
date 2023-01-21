@@ -1,0 +1,11 @@
+C:\Users\Nikola\Desktop\Algebra\Treca_godina\PI\ProgramskoInzenjerstvo\Solid\bin\Debug\Solid.exe.config
+C:\Users\Nikola\Desktop\Algebra\Treca_godina\PI\ProgramskoInzenjerstvo\Solid\bin\Debug\Solid.exe
+C:\Users\Nikola\Desktop\Algebra\Treca_godina\PI\ProgramskoInzenjerstvo\Solid\bin\Debug\Solid.pdb
+C:\Users\Nikola\Desktop\Algebra\Treca_godina\PI\ProgramskoInzenjerstvo\Solid\obj\Debug\Solid.csproj.AssemblyReference.cache
+C:\Users\Nikola\Desktop\Algebra\Treca_godina\PI\ProgramskoInzenjerstvo\Solid\obj\Debug\Solid.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nikola\Desktop\Algebra\Treca_godina\PI\ProgramskoInzenjerstvo\Solid\obj\Debug\Solid.csproj.CoreCompileInputs.cache
+C:\Users\Nikola\Desktop\Algebra\Treca_godina\PI\ProgramskoInzenjerstvo\Solid\obj\Debug\Solid.exe
+C:\Users\Nikola\Desktop\Algebra\Treca_godina\PI\ProgramskoInzenjerstvo\Solid\obj\Debug\Solid.pdb
+C:\Users\Nikola\Desktop\Algebra\Treca_godina\PI\ProgramskoInzenjerstvo\Solid\bin\Debug\nunit.framework.dll
+C:\Users\Nikola\Desktop\Algebra\Treca_godina\PI\ProgramskoInzenjerstvo\Solid\bin\Debug\nunit.framework.xml
+C:\Users\Nikola\Desktop\Algebra\Treca_godina\PI\ProgramskoInzenjerstvo\Solid\obj\Debug\Solid.csproj.CopyComplete
